@@ -3,6 +3,7 @@
 * [Welcome to VECTOR AI](README.md)
 * [Mission & Value Proposition](1-Introduction.md)
 * [VGPT Framework](3-How-It-Works.md)
+* [VGPT Use Cases](9-Use-Cases.md)
 * [Vector Tools](2-core-products/README.md)
   * [VGPT Web Interface](2-Core-Products/VGPT-Web-Interface.md)
   * [Vector IQ Plus - Token Scanner & Researcher](2-Core-Products/Vector-IQ-Plus-Token-Scanner-Researcher.md)
