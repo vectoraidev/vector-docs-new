@@ -6,13 +6,16 @@
 \
 **VECTOR Token** `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`&#x20;
 
+***
+
 ## Official Links
 
-* **Website**: https://vector-ai.pro
-* **Twitter/X**: https://x.com/vectorai\_x
-* **Telegram**: https://t.me/vectorai\_tg
-* **Contact:** team@vector-ai.pro\
+**Contact:** [team@vector-ai.pro](mailto:team@vector-ai.pro)\
+**Telegram:** [https://t.me/vectorai\_tg](https://t.me/vectorai_tg)\
+**Twitter/X:** [https://x.com/vectorai\_x](https://x.com/vectorai_x)\
+**Contact:** team@vvector-ai.pro
 
+***
 
 **VECTOR AI** is a blockchain intelligence company building VGPT — an advanced AI framework that combines DYOR automation, social validation, smart contract analysis, and real-time on-chain reasoning. By bridging on-chain data, off-chain APIs, and LLM-powered logic, VGPT delivers actionable insights and enables direct blockchain interactions — all in natural language.
 
