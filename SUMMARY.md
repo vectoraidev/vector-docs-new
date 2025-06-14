@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Welcome to VECTOR AI](README.md)
+* [Introduction](1-Introduction.md)
+* [How It Works](3-How-It-Works.md)
+* [Tokenomics](4-Tokenomics.md)
+* [Roadmap](5-Roadmap.md)
+* [Links & Resources](6-Links-Resources.md)
+* [Staking & Pricing](7-Staking-Pricing.md)
+* [API Reference](8-API-Reference.md)
+* [2-Core-Products](2-core-products/README.md)
+  * [VGPT Web Interface](2-Core-Products/VGPT-Web-Interface.md)
+  * [Vector IQ Plus - Token Scanner & Researcher](2-Core-Products/Vector-IQ-Plus-Token-Scanner-Researcher.md)
+  * [Vector IQ Token Scanner (Free)](2-Core-Products/Vector-IQ-Token-Scanner-Free.md)
+  * [Vector Scanner (Smart TG Signals)](2-Core-Products/Vector-Scanner-Smart-TG-Signals.md)
+  * [Vector Scope Group Bot](2-Core-Products/Vector-Scope-Group-Bot.md)
+  * [Viper Auto Sniper](2-Core-Products/Viper-Auto-Sniper.md)
