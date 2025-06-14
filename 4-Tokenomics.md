@@ -1,7 +1,10 @@
 # Tokenomics
 
-### Token Name & Symbol
+<figure><img src=".gitbook/assets/vector_gpt_tokenomics_pie.png" alt="VECTOR Token Allocation"><figcaption><p>VECTOR Token Distribution & Allocation Breakdown</p></figcaption></figure>
 
+## Token Information
+
+### Token Name & Symbol
 * **Token Name**: Vector AI
 * **Symbol**: VECTOR
 * **Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`
@@ -9,18 +12,13 @@
 * **Decimals**: 18
 
 ### Total Supply
-
 * **Total Supply**: 100,000,000 VECTOR
 * **Circulating Supply**: Updated dynamically based on vesting schedules
-* **Max Supply**: 100,000,000 VECTOR (deflationary mechanism through buybacks)\
-
-
-<figure><img src=".gitbook/assets/vector_gpt_tokenomics_pie.png" alt=""><figcaption></figcaption></figure>
+* **Max Supply**: 100,000,000 VECTOR
 
 ## Token Allocation
 
 ### Distribution Breakdown
-
 * **Public Sale**: 30% (30,000,000 VECTOR)
 * **Liquidity Pool**: 25% (25,000,000 VECTOR)
 * **Team & Development**: 20% (20,000,000 VECTOR)
@@ -28,31 +26,51 @@
 * **Treasury & Operations**: 10% (10,000,000 VECTOR)
 * **Advisors & Strategic**: 5% (5,000,000 VECTOR)
 
-### Vesting Schedule
+## Security & Transparency
 
-* **Team Tokens**: 3-month cliff + 18-month linear vesting
+### Verified Locks & Vesting
+* **70% liquidity locked for 12+ months** via [UNICRYPT](https://app.uncx.network/lockers/univ2/chain/1/address/0x0a52a68f468719c8ab0bb1c083040c051480680e/lock/0x663a5c229c09b049e36dcc11a9b0d4a8eb9db2140x0a52a68f468719c8ab0bb1c083040c051480680e0)
+* **Team tokens vested with 3-month cliff + 18-month linear release** via [UNICRYPT](https://app.uncx.network/lockers/token/chain/1/address/0x569dd3298e114da858415ee5672c8f2ab57938bf)
+* **5% balanced buy/sell tax structure**
+
+### Vesting Schedule
+* **Team Tokens**: 3-month cliff + 18-month linear vesting ([Verified on UNICRYPT](https://app.uncx.network/lockers/token/chain/1/address/0x569dd3298e114da858415ee5672c8f2ab57938bf))
 * **Advisor Tokens**: 2-month cliff + 12-month linear vesting
 * **Treasury**: 6-month cliff + 24-month linear release
 * **Public Sale**: No vesting (immediate unlock)
+
+### Liquidity Security
+* **Locked Liquidity**: 70% of initial liquidity locked for 12+ months ([View Lock on UNICRYPT](https://app.uncx.network/lockers/univ2/chain/1/address/0x0a52a68f468719c8ab0bb1c083040c051480680e/lock/0x663a5c229c09b049e36dcc11a9b0d4a8eb9db2140x0a52a68f468719c8ab0bb1c083040c051480680e0))
+* **Gradual Unlock**: Remaining liquidity unlocked gradually with community notice
+* **Multisig Control**: All major fund movements require multisig approval
+
+## Tax Structure
+
+### Trading Taxes
+* **Buy Tax**: 5% (balanced across different functions)
+* **Sell Tax**: 5% (balanced across different functions)
+
+### Tax Distribution
+* **Development Fund**: 2% (platform development and maintenance)
+* **Marketing & Growth**: 1.5% (community building and marketing initiatives)
+* **Liquidity**: 1% (automatic liquidity provision)
+* **Buyback & Burn**: 0.5% (deflationary mechanism)
 
 ## Utility & Use Cases
 
 ### Primary Utilities
 
 #### 🔐 Access & Staking
-
 * **Premium Features**: Stake VECTOR for access to advanced VGPT capabilities
 * **Tier-Based Access**: Different staking amounts unlock various feature sets
 * **Staking Rewards**: Earn additional VECTOR through platform usage and staking
 
 #### 💰 Platform Economy
-
 * **Transaction Fees**: VECTOR used for premium API calls and advanced features
 * **Tipping System**: Community tipping and rewards within Telegram groups
 * **Bounty Payments**: VECTOR rewards for community contributions and referrals
 
 #### 🏛️ Governance
-
 * **Platform Decisions**: Vote on new features, integrations, and platform direction
 * **Parameter Adjustments**: Community governance over fee structures and reward rates
 * **Treasury Management**: Voting rights on treasury fund utilization
@@ -60,55 +78,45 @@
 ### Advanced Use Cases
 
 #### 🤖 AI Service Credits
-
 * **GPT Queries**: VECTOR credits for complex AI analysis and reasoning
 * **Real-time Alerts**: Premium notification services require VECTOR balance
 * **Custom Analysis**: Advanced research requests consume VECTOR credits
 
 #### 🔄 DeFi Integration
-
 * **Automated Trading**: VECTOR required for automated trading bot features
 * **Portfolio Management**: Advanced portfolio automation requires VECTOR staking
 * **Risk Management**: Premium risk assessment tools gated by VECTOR holdings
 
-## Tax Structure
+## Token Access Tiers
 
-### Trading Taxes
+### 🥉 Basic Tier (1,000+ VECTOR)
+* **Vector IQ Free**: Basic token scanning and analysis
+* **Community Access**: Telegram bot basic commands
+* **Standard Support**: Community support channels
 
-* **Buy Tax**: 5% (balanced across different functions)
-* **Sell Tax**: 5% (balanced across different functions)
+### 🥈 Premium Tier (10,000+ VECTOR Staked)
+* **Vector IQ Plus**: Advanced token research and analysis
+* **Priority Support**: Dedicated support channels
+* **Advanced Features**: Whale tracking, smart money alerts
 
-### Tax Distribution
+### 🥇 Elite Tier (25,000+ VECTOR Staked) 
+* **Viper Auto Sniper**: Professional trading automation
+* **Custom Strategies**: Personalized trading and research tools
+* **White-label Access**: API access for custom integrations
 
-* **Development Fund**: 2% (platform development and maintenance)
-* **Marketing & Growth**: 1.5% (community building and marketing initiatives)
-* **Liquidity**: 1% (automatic liquidity provision)
-* **Buyback & Burn**: 0.5% (deflationary mechanism)
-
-## Security & Transparency
-
-### Liquidity Security
-
-* **Locked Liquidity**: 70% of initial liquidity locked for 12+ months
-* **Gradual Unlock**: Remaining liquidity unlocked gradually with community notice
-* **Multisig Control**: All major fund movements require multisig approval
-
-### Smart Contract Security
-
-* **Audited Contracts**: Professional security audits by reputable firms
-* **Open Source**: Core contracts available for community review
-* **Upgradeable Architecture**: Secure upgrade mechanisms for platform improvements
+### 💎 Institutional Tier (100,000+ VECTOR Staked)
+* **Full Platform Access**: All features and tools unlocked
+* **Dedicated Account Manager**: Personal support and strategy consultation
+* **Custom Development**: Tailored solutions and integrations
 
 ## Economic Model
 
 ### Deflationary Mechanisms
-
 * **Buyback Program**: Regular VECTOR buybacks from platform revenues
 * **Burn Events**: Quarterly token burns based on platform usage metrics
 * **Fee Burning**: Portion of platform fees permanently removed from circulation
 
 ### Revenue Streams
-
 * **Premium Subscriptions**: Monthly/yearly VGPT premium access
 * **API Access**: Developer API usage fees
 * **Enterprise Solutions**: Custom blockchain intelligence solutions
@@ -117,27 +125,22 @@
 ## Buy & Trade Info
 
 ### How to Buy VECTOR
-
 1. **Decentralized Exchanges**:
-   * Uniswap V2/V3 (Primary liquidity)
+   * [Uniswap V2/V3](https://app.uniswap.org/swap?outputCurrency=0x569Dd3298E114Da858415ee5672C8F2AB57938Bf&chain=ethereum) (Primary liquidity)
    * SushiSwap
    * 1inch (Aggregated liquidity)
+
 2. **Centralized Exchanges**:
    * Gate.io (Primary CEX listing)
    * Additional CEX listings planned
 
 ### Trading Information
-
 * **Primary Pair**: VECTOR/ETH
 * **Secondary Pairs**: VECTOR/USDT, VECTOR/USDC
-* **Liquidity Pools**: Incentivized LP rewards available
+* **DEX Tracker**: [View on DEXScreener](https://dexscreener.com/ethereum/0x0a52a68f468719c8ab0bb1c083040c051480680e)
 * **Price Tracking**: Available on CoinGecko, CoinMarketCap, and DEX tools
 
-### Staking Information
-
-* **Minimum Stake**: 1,000 VECTOR
-* **Lock Periods**: 30 days, 90 days, 180 days, 365 days
-* **APY Rewards**: Variable based on lock period and total staked amount
-* **Auto-Compound**: Optional automatic reward reinvestment\
-  \
-  c
+### Contract Verification
+* **Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
+* **Security Audits**: Professional security audits completed
+* **Open Source**: Core contracts available for community review
