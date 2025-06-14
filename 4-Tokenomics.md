@@ -1,11 +1,5 @@
 # Tokenomics
 
-![Crypto Trading Chart](images/crypto-chart.png)
-
-_VECTOR Token Trading and Market Analysis Dashboard_
-
-## Token Information
-
 ### Token Name & Symbol
 
 * **Token Name**: Vector AI
@@ -18,7 +12,10 @@ _VECTOR Token Trading and Market Analysis Dashboard_
 
 * **Total Supply**: 100,000,000 VECTOR
 * **Circulating Supply**: Updated dynamically based on vesting schedules
-* **Max Supply**: 100,000,000 VECTOR (deflationary mechanism through buybacks)
+* **Max Supply**: 100,000,000 VECTOR (deflationary mechanism through buybacks)\
+
+
+<figure><img src=".gitbook/assets/vector_gpt_tokenomics_pie.png" alt=""><figcaption></figcaption></figure>
 
 ## Token Allocation
 
@@ -141,4 +138,6 @@ _VECTOR Token Trading and Market Analysis Dashboard_
 * **Minimum Stake**: 1,000 VECTOR
 * **Lock Periods**: 30 days, 90 days, 180 days, 365 days
 * **APY Rewards**: Variable based on lock period and total staked amount
-* **Auto-Compound**: Optional automatic reward reinvestment
+* **Auto-Compound**: Optional automatic reward reinvestment\
+  \
+  c
