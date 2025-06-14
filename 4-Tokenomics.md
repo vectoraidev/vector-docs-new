@@ -12,19 +12,20 @@
 * **Decimals**: 18
 
 ### Total Supply
-* **Total Supply**: 100,000,000 VECTOR
+* **Total Supply**: 1,000,000,000 VECTOR (1 Billion)
 * **Circulating Supply**: Updated dynamically based on vesting schedules
-* **Max Supply**: 100,000,000 VECTOR
+* **Max Supply**: 1,000,000,000 VECTOR
 
 ## Token Allocation
 
 ### Distribution Breakdown
-* **Public Sale**: 30% (30,000,000 VECTOR)
-* **Liquidity Pool**: 25% (25,000,000 VECTOR)
-* **Team & Development**: 20% (20,000,000 VECTOR)
-* **Marketing & Partnerships**: 10% (10,000,000 VECTOR)
-* **Treasury & Operations**: 10% (10,000,000 VECTOR)
-* **Advisors & Strategic**: 5% (5,000,000 VECTOR)
+| Category | Allocation | Tokens | Purpose |
+|----------|------------|--------|---------|
+| **Liquidity Pool** | 70% | 700,000,000 | Locked 12 months |
+| **Marketing & Growth** | 10% | 100,000,000 | User acquisition, partnerships (Cliff Vested) |
+| **Staking Rewards** | 8% | 80,000,000 | Reward distribution pool (Locked before Staking is Live) |
+| **Team & Development** | 7% | 70,000,000 | Vested over 12 months |
+| **API & Infrastructure** | 5% | 50,000,000 | Platform operations |
 
 ## Security & Transparency
 
@@ -34,13 +35,14 @@
 * **5% balanced buy/sell tax structure**
 
 ### Vesting Schedule
-* **Team Tokens**: 3-month cliff + 18-month linear vesting ([Verified on UNICRYPT](https://app.uncx.network/lockers/token/chain/1/address/0x569dd3298e114da858415ee5672c8f2ab57938bf))
-* **Advisor Tokens**: 2-month cliff + 12-month linear vesting
-* **Treasury**: 6-month cliff + 24-month linear release
-* **Public Sale**: No vesting (immediate unlock)
+* **Team Tokens (7%)**: Vested over 12 months ([Verified on UNICRYPT](https://app.uncx.network/lockers/token/chain/1/address/0x569dd3298e114da858415ee5672c8f2ab57938bf))
+* **Marketing & Growth (10%)**: Cliff vested for user acquisition and partnerships
+* **Staking Rewards (8%)**: Locked before staking platform goes live
+* **Liquidity Pool (70%)**: Locked for 12+ months
+* **API & Infrastructure (5%)**: Platform operations funding
 
 ### Liquidity Security
-* **Locked Liquidity**: 70% of initial liquidity locked for 12+ months ([View Lock on UNICRYPT](https://app.uncx.network/lockers/univ2/chain/1/address/0x0a52a68f468719c8ab0bb1c083040c051480680e/lock/0x663a5c229c09b049e36dcc11a9b0d4a8eb9db2140x0a52a68f468719c8ab0bb1c083040c051480680e0))
+* **700,000,000 VECTOR (70%) locked for 12+ months** ([View Lock on UNICRYPT](https://app.uncx.network/lockers/univ2/chain/1/address/0x0a52a68f468719c8ab0bb1c083040c051480680e/lock/0x663a5c229c09b049e36dcc11a9b0d4a8eb9db2140x0a52a68f468719c8ab0bb1c083040c051480680e0))
 * **Gradual Unlock**: Remaining liquidity unlocked gradually with community notice
 * **Multisig Control**: All major fund movements require multisig approval
 
