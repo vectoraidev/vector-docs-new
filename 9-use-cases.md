@@ -6,8 +6,6 @@ Vector AI offers advanced tooling for evaluating token legitimacy, automating du
 
 ## 🧠 Multi-Pipeline Token Scanning
 
-<figure><img src="../assets/framework.png" alt="Multi-Pipeline Token Scanning"><figcaption><p>Comprehensive token evaluation across multiple data sources</p></figcaption></figure>
-
 Automatically evaluate the credibility of new tokens by scanning Twitter, Telegram, and other off-chain platforms as well as token security, holder information and honeypot checks.
 
 **Key Features:**
@@ -18,11 +16,11 @@ Automatically evaluate the credibility of new tokens by scanning Twitter, Telegr
 * Honeypot and rug pull detection
 * Real-time risk assessment
 
+<div align="left"><figure><img src=".gitbook/assets/Screenshot 2025-06-13 042355.png" alt="" width="563"><figcaption></figcaption></figure></div>
+
 ***
 
 ## 💬 Ask VGPT About a Scan
-
-<figure><img src="../assets/brain-analysis.png" alt="VGPT AI Analysis"><figcaption><p>AI-powered reasoning and analysis capabilities</p></figcaption></figure>
 
 Want deeper insights? Once a token is scanned, you can **ask VGPT follow-up questions** like:
 
@@ -32,7 +30,11 @@ Want deeper insights? Once a token is scanned, you can **ask VGPT follow-up ques
 * "What's suspicious about this token?"
 * "Rate this project's legitimacy from 1–10."
 
-🧠 **VGPT connects the dots** across contract code, websites, socials, and documentation — giving you human-like reasoning in seconds.
+🧠 **VGPT connects the dots** across contract code, websites, socials, and documentation — giving you human-like reasoning in seconds.\
+\
+
+
+<div align="left"><figure><img src=".gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 
@@ -48,13 +50,15 @@ Extract and verify all links from token websites, documentation, and social prof
 * Team bio and claim verification
 * Identity mismatch flagging
 
-VGPT cross-references team bios, project claims, and social engagement to flag red flags or verify authenticity.
+VGPT cross-references team bios, project claims, and social engagement to flag red flags or verify authenticity.\
+\
+
+
+<div align="left"><figure><img src=".gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 
 ## 🧬 Cross-Signal Token Scoring
-
-<figure><img src="../assets/crypto-chart.png" alt="Token Scoring Dashboard"><figcaption><p>Comprehensive token scoring across multiple signals</p></figcaption></figure>
 
 Assign comprehensive scores to tokens using multiple data sources:
 
@@ -123,8 +127,6 @@ Match smart contracts to all linked project assets with comprehensive verificati
 
 ## ⚡ Real-Time Onboarding Surveillance
 
-<figure><img src="../assets/sniper-flow.png" alt="Real-Time Monitoring"><figcaption><p>Automated real-time token deployment monitoring</p></figcaption></figure>
-
 Monitor new deployments on-chain and immediately trigger comprehensive validation:
 
 **Instant Analysis:**
@@ -143,22 +145,3 @@ Monitor new deployments on-chain and immediately trigger comprehensive validatio
 
 ***
 
-## 🎯 Link Discovery & Validation
-
-All analysis components are combined via **VGPT-powered reasoning** for transparent and explainable legitimacy scoring:
-
-**Comprehensive Validation:**
-
-* Multi-source data correlation
-* AI-powered pattern recognition
-* Transparent scoring methodology
-* Explainable risk assessment
-
-**Real-Time Intelligence:**
-
-* Continuous monitoring and updates
-* Dynamic risk score adjustments
-* Alert system for significant changes
-* Historical trend analysis
-
-The VGPT Use Cases demonstrate how Vector AI transforms complex blockchain analysis into simple, conversational intelligence that anyone can understand and act upon.
