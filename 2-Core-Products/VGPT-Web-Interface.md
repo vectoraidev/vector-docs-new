@@ -2,222 +2,140 @@
 
 ## Overview
 
-The **VGPT Web Interface** is the central command hub and LLM "HEART" of the Vector AI ecosystem. This comprehensive web application serves as the primary control center that orchestrates all Vector AI components, reasoning models, and external integrations including Telegram bots, trading engines, and blockchain intelligence systems.
+The **VGPT Web Interface** is the central LLM "HEART" of Vector AI - a comprehensive web application that controls all reasoning models, Telegram bots, trading engines, and blockchain intelligence systems through natural language conversations.
 
-<figure><img src=".gitbook/assets/vgptchart.png" alt="VGPT System Architecture"><figcaption><p>VGPT Web Interface - Central Control Hub Architecture</p></figcaption></figure>
+<figure><img src=".gitbook/assets/vgptchart.png" alt="VGPT System Architecture"><figcaption><p>VGPT Web Interface - Central Control Hub</p></figcaption></figure>
 
-As the core intelligence engine, the VGPT Web Interface processes natural language queries, coordinates multi-source data gathering, executes advanced reasoning workflows, and delivers actionable insights through an intuitive conversational interface.
+## 🧠 Core Architecture
 
-## 🧠 Core LLM Architecture
+### Central LLM Engine
+- **GPT-Powered Brain**: Advanced language model fine-tuned for blockchain intelligence
+- **Multi-Modal Processing**: Handles contracts, social data, and market metrics simultaneously
+- **Context Awareness**: Remembers conversation history and user preferences
+- **Intent Classification**: Automatically determines if you need analysis, trading, or information
 
-### Central Reasoning Engine
-The VGPT Web Interface houses the primary large language model that serves as the decision-making brain for the entire Vector AI ecosystem:
-
-- **GPT-Powered Core**: Advanced language model fine-tuned for blockchain intelligence
-- **Context Management**: Maintains conversation history and user preferences across sessions
-- **Multi-Modal Processing**: Handles text, contract code, social media data, and market metrics
-- **Intent Classification**: Determines whether user requests require analysis, transactions, or information
-
-### Model Orchestration
 <details>
-<summary><strong>🔧 Reasoning Model Pipeline</strong></summary>
+<summary><strong>🔧 AI Model Pipeline</strong></summary>
 
-#### Primary Models:
-- **Contract Analysis Model**: Specialized for smart contract security and functionality assessment
-- **Social Intelligence Model**: Optimized for sentiment analysis and authenticity verification
-- **Market Prediction Model**: Trained on historical price data and market indicators
-- **Risk Assessment Model**: Evaluates investment risks and potential fraud indicators
+**Specialized Models:**
+- **Contract Analysis**: Security audits and vulnerability detection
+- **Social Intelligence**: Sentiment analysis and authenticity verification  
+- **Market Prediction**: Price forecasting and trend analysis
+- **Risk Assessment**: Investment risk and fraud detection
 
-#### Model Coordination:
-- **Dynamic Model Selection**: Automatically chooses appropriate models based on query type
-- **Ensemble Processing**: Combines outputs from multiple models for comprehensive analysis
-- **Confidence Scoring**: Weights model outputs based on historical accuracy and relevance
-- **Fallback Systems**: Graceful degradation when specific models are unavailable
+**Smart Coordination:**
+- Dynamic model selection based on query type
+- Ensemble processing for comprehensive analysis
+- Confidence scoring and fallback systems
 
 </details>
 
-## 🏗️ System Architecture
+## 🏗️ System Components
 
-### Interface Layer
 <details>
-<summary><strong>🖥️ Web Application Frontend</strong></summary>
+<summary><strong>🖥️ Web Interface</strong></summary>
 
-#### User Interface Components:
-- **Conversational Chat Interface**: Primary interaction method with VGPT
-- **Real-Time Dashboards**: Live data visualization and monitoring panels
-- **Interactive Charts**: Dynamic technical analysis and market data displays
-- **Custom Workspaces**: Personalized layouts for different user roles
+**Core Features:**
+- Conversational chat interface with VGPT
+- Real-time dashboards and interactive charts
+- Multi-tab research sessions
+- Mobile responsive design
 
-#### Advanced Features:
-- **Multi-Tab Management**: Handle multiple research sessions simultaneously
-- **Voice Commands**: Speech-to-text integration for hands-free operation
-- **Mobile Responsive**: Optimized for tablet and smartphone access
-- **Dark/Light Themes**: Customizable interface appearance
+**Advanced Tools:**
+- Voice commands and speech-to-text
+- Custom workspaces and themes
+- Performance analytics and alerts
 
 </details>
 
-### Processing Layer
 <details>
-<summary><strong>⚙️ Core Processing Engine</strong></summary>
+<summary><strong>⚙️ Processing Engine</strong></summary>
 
-#### Data Processing Pipeline:
-- **Request Parser**: Analyzes incoming queries and determines required data sources
-- **Parallel Processing**: Simultaneous data gathering from multiple APIs and sources
-- **Data Normalization**: Standardizes data formats across different sources
-- **Quality Assurance**: Validates data integrity and filters out unreliable information
+**Data Pipeline:**
+- Parallel processing from multiple sources
+- Real-time blockchain node connections
+- Social media API integration (Twitter, Telegram, Discord)
+- Web crawling and news aggregation
 
-#### Intelligence Modules:
-- **Natural Language Understanding**: Interprets complex user queries and context
-- **Pattern Recognition**: Identifies trends and anomalies in blockchain data
-- **Predictive Analytics**: Forecasts market movements and token performance
-- **Automated Reasoning**: Makes logical inferences from collected data
+**Intelligence Modules:**
+- Natural language understanding
+- Pattern recognition and anomaly detection
+- Predictive analytics and automated reasoning
 
 </details>
 
-### Data Layer
 <details>
-<summary><strong>📊 Multi-Source Data Integration</strong></summary>
+<summary><strong>🔗 Integration Hub</strong></summary>
 
-#### Blockchain Data Sources:
-- **Real-Time Node Connections**: Direct access to Ethereum, BSC, Polygon, Arbitrum
-- **Contract Event Monitoring**: Live tracking of smart contract interactions
-- **Mempool Analysis**: Real-time transaction monitoring and MEV detection
-- **Historical Data**: Comprehensive blockchain history and trend analysis
+**Trading Platforms:**
+- DEX integration (Uniswap, SushiSwap, PancakeSwap)
+- CEX API connections
+- DeFi protocol interactions
+- Cross-chain bridge support
 
-#### Off-Chain Intelligence:
-- **Social Media APIs**: Twitter, Telegram, Discord, Reddit integration
-- **Web Crawling Engine**: Automated website and documentation analysis
-- **News Aggregation**: Real-time crypto news and market sentiment feeds
-- **WHOIS & Domain Intelligence**: Website verification and ownership tracking
+**Developer Tools:**
+- REST API and GraphQL access
+- WebSocket real-time streams
+- SDK libraries and documentation
+- Webhook support for external apps
 
 </details>
 
-## 🚀 Core Capabilities
+## 🚀 Key Capabilities
 
-### Intelligent Token Research
-The VGPT Web Interface provides comprehensive token analysis through advanced AI reasoning:
+### **Smart Token Research**
+- **Contract Analysis**: Automated security audits and function mapping
+- **Social Validation**: Cross-platform verification and team background checks
+- **Market Intelligence**: Technical analysis with 50+ indicators and whale tracking
+- **Risk Scoring**: Comprehensive fraud detection and investment risk assessment
 
-#### **Smart Contract Deep Analysis**
-- **Vulnerability Detection**: Automated identification of security risks and exploits
-- **Function Mapping**: Complete analysis of contract capabilities and permissions
-- **Upgrade Patterns**: Detection of proxy contracts and potential rug pull mechanisms
-- **Gas Optimization**: Analysis of contract efficiency and transaction costs
+### **Automation Control Center**
+- **Viper Auto Sniper**: Configure and monitor automated trading strategies
+- **Telegram Bot Management**: Control Vector Scope, Scanner, and IQ bots
+- **Portfolio Management**: AI-driven rebalancing and optimization
+- **Custom Workflows**: Build complex automation with visual interface
 
-#### **Social Validation Engine**
-- **Cross-Platform Verification**: Matches project claims across multiple social platforms
-- **Team Background Checks**: Automated research on team members and their history
-- **Community Sentiment**: Real-time analysis of community engagement and authenticity
-- **Influencer Impact**: Tracking of key opinion leader mentions and their market effect
-
-#### **Market Intelligence Processing**
-- **Technical Analysis**: 50+ indicators with AI-powered pattern recognition
-- **Whale Movement Tracking**: Large wallet activity monitoring and impact assessment
-- **Liquidity Analysis**: Deep evaluation of token liquidity and market depth
-- **Correlation Mapping**: Understanding token relationships and sector dynamics
-
-### Advanced Automation Controls
-
-#### **Trading Integration Hub**
-The web interface serves as the command center for all automated trading activities:
-
-- **Viper Auto Sniper Control**: Configure and monitor automated sniping strategies
-- **Portfolio Management**: AI-driven rebalancing and optimization controls
-- **Risk Management Dashboard**: Real-time risk monitoring and adjustment tools
-- **Performance Analytics**: Comprehensive trading performance tracking and analysis
-
-#### **Telegram Bot Orchestration**
-Complete control and monitoring of all Telegram bot activities:
-
-- **Multi-Bot Management**: Coordinate Vector Scope, Scanner, and IQ bots
-- **Group Intelligence**: Monitor and analyze activity across multiple Telegram groups
-- **Automated Responses**: Configure intelligent responses to common queries
-- **Community Insights**: Track community engagement and sentiment metrics
-
-## 🔗 Integration Ecosystem
-
-### External Platform Connections
-<details>
-<summary><strong>🔌 API & Integration Management</strong></summary>
-
-#### Trading Platform Integration:
-- **DEX Connectivity**: Direct integration with Uniswap, SushiSwap, PancakeSwap
-- **CEX API Access**: Connected to major centralized exchanges for data and trading
-- **DeFi Protocol Integration**: Direct interaction with lending, yield farming platforms
-- **Cross-Chain Bridges**: Automated cross-chain transaction capabilities
-
-#### Developer Tools:
-- **REST API Gateway**: Comprehensive API access for custom integrations
-- **Webhook Support**: Real-time event notifications for external applications
-- **SDK Libraries**: Pre-built libraries for common programming languages
-- **Custom Dashboard Builder**: Tools for creating personalized interfaces
-
-</details>
-
-### Communication Networks
-<details>
-<summary><strong>📡 Multi-Channel Communication Hub</strong></summary>
-
-#### Real-Time Notifications:
-- **Smart Alerts**: AI-powered alert system with customizable triggers
-- **Multi-Channel Delivery**: Email, SMS, Telegram, Discord, webhook notifications
-- **Priority Filtering**: Intelligent filtering based on user preferences and urgency
-- **Alert Aggregation**: Consolidated reporting to prevent notification overload
-
-#### Community Integration:
-- **Telegram Group Management**: Monitor and participate in relevant crypto communities
-- **Discord Bot Integration**: Extend VGPT capabilities to Discord servers
-- **Twitter Activity Tracking**: Monitor mentions, hashtags, and influencer activity
-- **Reddit Sentiment Analysis**: Track discussions across relevant cryptocurrency subreddits
-
-</details>
+### **Real-Time Intelligence**
+- **Live Monitoring**: Continuous blockchain and social media tracking
+- **Smart Alerts**: AI-powered notifications with priority filtering
+- **Performance Analytics**: Comprehensive trading and research metrics
+- **Community Insights**: Track engagement across multiple platforms
 
 ## 💡 Advanced Features
 
-### AI-Powered Workflow Automation
-- **Custom Strategy Builder**: Visual interface for creating complex automation workflows
-- **Condition-Based Triggers**: Set up sophisticated if-then logic for automated actions
-- **Multi-Asset Coordination**: Coordinate activities across different tokens and chains
-- **Performance Optimization**: AI continuously optimizes strategies based on results
+### **Enterprise Security**
+- Multi-factor authentication and API key management
+- Complete audit logging and role-based access
+- Encrypted communications and secure wallet integration
 
-### Enterprise-Grade Security
-- **Multi-Factor Authentication**: Advanced security protocols for account protection
-- **API Key Management**: Secure storage and rotation of external API credentials
-- **Audit Logging**: Complete activity tracking for compliance and security analysis
-- **Role-Based Access**: Granular permission system for team environments
+### **Developer Integration**
+- GraphQL API for flexible queries
+- Sandbox environment for strategy testing
+- Custom dashboard builder
+- Comprehensive documentation portal
 
-### Developer Integration Suite
-- **GraphQL API**: Flexible query interface for custom application development
-- **Real-Time WebSocket**: Live data streams for building responsive applications
-- **Sandbox Environment**: Safe testing environment for strategy development
-- **Documentation Portal**: Comprehensive guides and examples for integration
+## 🎯 Access & Pricing
 
-## 🎯 User Experience Optimization
+### **Free Tier**
+- Basic token analysis and limited AI queries
+- Standard market data access
+- Community support
 
-### Personalization Engine
-- **Learning Algorithms**: AI learns from user behavior to improve recommendations
-- **Custom Workspaces**: Personalized layouts optimized for individual workflows
-- **Preference Management**: Granular control over notifications, display, and functionality
-- **Usage Analytics**: Insights into platform usage for continuous improvement
+### **Premium Tier** (VECTOR Staking Required)
+- Unlimited AI queries and advanced analysis
+- Real-time whale tracking and automation
+- Priority support and exclusive features
 
-### Performance & Reliability
-- **Sub-Second Response**: Optimized infrastructure for lightning-fast query processing
-- **99.9% Uptime**: Redundant systems ensuring continuous availability
-- **Global CDN**: Worldwide content delivery for optimal performance
-- **Auto-Scaling**: Dynamic resource allocation based on demand
+### **Enterprise Tier**
+- Custom integrations and white-label solutions
+- Dedicated account management
+- SLA guarantees and advanced analytics
 
 ## 🚀 Getting Started
 
-### Quick Setup Process
-1. **Account Creation**: Sign up at [vector-ai.pro](https://vector-ai.pro)
-2. **VECTOR Staking**: Stake tokens to unlock premium features
-3. **Platform Walkthrough**: Interactive tutorial covering core functionalities
-4. **API Configuration**: Set up external integrations and preferences
-5. **First Analysis**: Begin with guided token research workflow
+1. **Sign Up**: Create account at [vector-ai.pro](https://vector-ai.pro)
+2. **Stake VECTOR**: Unlock premium features through token staking
+3. **Complete Tutorial**: Interactive walkthrough of core features
+4. **Start Analyzing**: Begin with guided token research workflow
 
-### Access Tiers
-- **Free Tier**: Basic token analysis and limited queries
-- **Premium Tier**: Advanced features with VECTOR staking requirements
-- **Enterprise Tier**: Full platform access with dedicated support
-- **Developer Tier**: Complete API access and custom integration capabilities
-
-The VGPT Web Interface represents the future of blockchain intelligence, combining cutting-edge AI with comprehensive market data to deliver unparalleled insights and automation capabilities. As the central nervous system of the Vector AI ecosystem, it empowers users to navigate the complex DeFi landscape with confidence and precision.
+The VGPT Web Interface is your AI-powered command center for navigating DeFi - combining cutting-edge language models with comprehensive blockchain intelligence in one intuitive platform.
