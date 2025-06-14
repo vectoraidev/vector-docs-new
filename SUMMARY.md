@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome to VECTOR AI](README.md)
-* [Introduction](1-Introduction.md)
-* [How It Works](3-How-It-Works.md)
+* [Mission & Value Proposition](1-Introduction.md)
+* [VGPT Framework](3-How-It-Works.md)
 * [Tokenomics](4-Tokenomics.md)
 * [Roadmap](5-Roadmap.md)
 * [Links & Resources](6-Links-Resources.md)

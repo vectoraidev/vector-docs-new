@@ -13,11 +13,13 @@
 **Contact:** [team@vector-ai.pro](mailto:team@vector-ai.pro)\
 **Telegram:** [https://t.me/vectorai\_tg](https://t.me/vectorai_tg)\
 **Twitter/X:** [https://x.com/vectorai\_x](https://x.com/vectorai_x)\
-**Contact:** team@vvector-ai.pro
+**Contact:** team@vector-ai.pro
 
 ***
 
-**VECTOR AI** is a blockchain intelligence company building VGPT — an advanced AI framework that combines DYOR automation, social validation, smart contract analysis, and real-time on-chain reasoning. By bridging on-chain data, off-chain APIs, and LLM-powered logic, VGPT delivers actionable insights and enables direct blockchain interactions — all in natural language.
+**Vector AI** is a blockchain intelligence company developing **VGPT** — a modular AI framework purpose-built for automated token research, contract scanning, and real-time alpha detection across both on-chain and social layers.
+
+At the core is **Vector GPT**, a blockchain-connected assistant that combines smart contract analysis, deep social validation, and GPT-powered reasoning. It automates token research and provides natural language access to DeFi intelligence — through **Telegram**, **web chat**, or **developer APIs**.
 
 <figure><img src=".gitbook/assets/20250608_2108_Refined Text Display_remix_01jx9dz09ne0avar5414mbjvws.png" alt=""><figcaption></figcaption></figure>
 

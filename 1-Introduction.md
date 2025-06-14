@@ -1,50 +1,49 @@
-# Introduction
+# Mission & Value Proposition
 
-## What is Vector AI?
 
-<figure><img src=".gitbook/assets/Untitled design (12).png" alt=""><figcaption></figcaption></figure>
 
-**VECTOR AI** is a blockchain intelligence company building VGPT — an advanced AI framework that combines DYOR automation, smart contract analysis, and real-time on-chain reasoning.
+<figure><img src=".gitbook/assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption></figcaption></figure>
 
-Vector GPT is a blockchain-connected GPT-style bot designed for advanced DeFi automation and intelligence. It bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics, transaction capabilities, and automation directly through Telegram or web chat.
+### 🎯 Mission & Vision
 
-By bridging on-chain data, off-chain APIs, and LLM-powered logic, VGPT delivers actionable insights and enables direct blockchain interactions — all in natural language.
+#### Our Mission
 
-## Mission & Vision
+Make token research and blockchain analysis effortless by replacing outdated tools with AI-powered, real-time intelligence — accessible to anyone via natural language.
 
-**Our Mission**: To democratize blockchain intelligence by making complex on-chain data accessible through natural language interactions, empowering users with AI-driven insights and automated DeFi capabilities.
+#### Our Vision
 
-**Our Vision**: To become the leading AI-powered blockchain intelligence platform that bridges the gap between complex blockchain data and user-friendly interfaces, enabling anyone to navigate the DeFi ecosystem with confidence.
+To become the most trusted AI engine for on-chain research, validation, and automation — helping users and builders identify real opportunities and avoid scams before anyone else.
 
-## What Makes VGPT Unique
+***
 
-### 🔗 Blockchain Connectivity
+### 🧬 What Makes VGPT Unique
 
-* **Real-time On-chain Analysis**: Direct integration with blockchain networks for live data
-* **Smart Contract Interaction**: Execute transactions and interact with DeFi protocols through natural language
-* **Multi-chain Support**: Comprehensive coverage across major blockchain networks
+#### 🔎 On-Chain + Off-Chain Intelligence
 
-### 🧠 Advanced AI Capabilities
+* **Instant Token Scanning:** Real-time smart contract analysis triggered on deployment or verification
+* **Deep Link Discovery:** Auto-crawls websites, docs, and socials to map a project’s web presence
+* **Social Validation Engine:** Matches project claims across Twitter, Telegram, and WHOIS data for authenticity scoring
 
-* **GPT-Powered Reasoning**: Advanced language models for complex query processing
-* **Pattern Recognition**: AI-driven detection of market trends and anomalies
-* **Automated DYOR**: Intelligent research automation for token and project analysis
+#### 🧠 AI-Powered Reasoning
 
-### 🛡️ Security & Transparency
+* **Automated Research:** Contract summaries, site analysis, team credibility checks, and sentiment breakdowns
+* **Alpha Signal Detection:** Detects early traction using wallet tracking, social velocity, and historical pattern matching
+* **Natural Language Interface:** Ask questions like "Is this project legit?" or "Has this team launched tokens before?"
 
-* **Secure Architecture**: Multi-layered security protocols protecting user data and funds
-* **Transparent Operations**: Open-source components and auditable smart contracts
-* **Risk Management**: Built-in safeguards and risk assessment tools
+#### 🔐 Token Security & Risk Detection
 
-### 🚀 Comprehensive Toolset
+* **Sniper & Bot Detection:** Identify suspicious behavior at launch
+* **Honeypot / Scam Flags:** Scan contracts and LP behavior for hidden traps
+* **Transparency Layer:** Highlights inconsistencies between claims and reality (e.g. fake Twitter, reused site, etc)
 
-* **Whale Tracking**: Monitor large wallet movements and trading patterns
-* **Sniper Detection**: Identify and analyze high-frequency trading activities
-* **Social Intelligence**: Integration with social platforms for sentiment analysis
-* **Portfolio Management**: Automated portfolio tracking and optimization
+#### 🤖 Modular AI Tools for Telegram & Web
 
-### 💬 User Experience
+* **Ask VGPT:** Get deep answers to scanned token data via Telegram or web interface
+* **Group Research Bot:** Drop a contract and get summaries, social scores, and suspicious flags in seconds
+* **Auto Sniper Integration:** Optional Viper bot triggers based on validated alpha signals
 
-* **Natural Language Interface**: Interact with complex blockchain data using simple conversations
-* **Multi-platform Access**: Available through web interface, Telegram, and API integrations
-* **Customizable Alerts**: Personalized notifications for market events and opportunities
+#### 💡 Built for Power Users & Developers
+
+* **Custom Alerts & Tracking:** Personalized notifications for contract activity or new alpha
+* **Token-Gated Features:** Access advanced research & automation by holding/staking $VECTOR
+* **API-Ready Infrastructure:** Integrate Vector AI logic into your own dashboards, bots, or apps

@@ -1,12 +1,10 @@
-# How It Works
+# VGPT Framework
 
 ## VGPT Framework Overview
 
-Vector GPT utilizes a sophisticated multi-layer architecture that combines blockchain connectivity, AI processing, and real-time data aggregation to deliver comprehensive intelligence and automation capabilities.
+Vector GPT utilizes a sophisticated multi-layer architecture that combines blockchain connectivity, AI processing,  web crawling and real-time data aggregation to deliver comprehensive intelligence and automation capabilities.
 
-![VGPT Framework Architecture](images/framework.png)
-
-_An example framework of how Vector AI utilizes multiple sources to gather accurate data_
+<figure><img src=".gitbook/assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption><p><em>An example framework of how Vector AI utilizes multiple sources to gather accurate data</em></p></figcaption></figure>
 
 ## Process Flow
 
@@ -14,7 +12,9 @@ _An example framework of how Vector AI utilizes multiple sources to gather accur
 
 * **User Commands**: Natural language input via web interface or Telegram
 * **Request Classification**: AI determines request type (transaction, analysis, or information)
-* **Intent Recognition**: System identifies specific actions and data requirements
+* **Intent Recognition**: System identifies specific actions and data requirements\
+  \
+  ![](.gitbook/assets/vgptchart.png)
 
 ### 2. Multi-Source Data Gathering
 
@@ -29,7 +29,8 @@ _An example framework of how Vector AI utilizes multiple sources to gather accur
 * **Website Crawling**: Automated scanning of project websites and documentation
 * **Social Media Integration**: Twitter, Telegram, and Discord data aggregation
 * **News & Media**: Real-time news feed analysis and sentiment tracking
-* **WHOIS Validation**: Domain verification and ownership tracking
+* **WHOIS Validation**: Domain verification and ownership tracking\
+
 
 ### 3. AI Processing & Analysis
 
