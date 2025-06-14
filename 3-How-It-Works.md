@@ -4,6 +4,10 @@
 
 Vector GPT utilizes a sophisticated multi-layer architecture that combines blockchain connectivity, AI processing, and real-time data aggregation to deliver comprehensive intelligence and automation capabilities.
 
+![VGPT Framework Architecture](images/framework.png)
+
+*An example framework of how Vector AI utilizes multiple sources to gather accurate data*
+
 ## Process Flow
 
 ### 1. Input Processing

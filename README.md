@@ -1,5 +1,7 @@
 # Welcome to VECTOR AI
 
+![Vector AI Brain Analysis](images/brain-analysis.png)
+
 **Company**: VECTOR AI | **Product**: Vector GPT | **Token**: VECTOR
 
 **VECTOR Token** `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`

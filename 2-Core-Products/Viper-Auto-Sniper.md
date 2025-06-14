@@ -4,6 +4,10 @@
 
 Viper Auto Sniper is Vector AI's advanced automated trading engine designed for high-speed token launches, arbitrage opportunities, and smart money copy trading. It combines AI-powered market analysis with lightning-fast execution to capitalize on time-sensitive trading opportunities.
 
+![Viper Auto Sniper Flowchart](images/sniper-flow.png)
+
+*Enhanced Sniper Bot Architecture and Process Flow*
+
 ## Core Features
 
 ### 🎯 Launch Sniping

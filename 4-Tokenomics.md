@@ -1,5 +1,9 @@
 # 📊 Tokenomics
 
+![Crypto Trading Chart](images/crypto-chart.png)
+
+*VECTOR Token Trading and Market Analysis Dashboard*
+
 ## Token Information
 
 ### Token Name & Symbol
