@@ -4,7 +4,7 @@
 
 The VGPT architecture is built on a modular, scalable foundation that enables seamless integration of AI processing, blockchain connectivity, and real-time data aggregation.
 
-<figure><img src=".gitbook/assets/framework.png" alt="VGPT Architecture"><figcaption><p>VGPT Multi-Layer Architecture Framework</p></figcaption></figure>
+<figure><img src="assets/framework.png" alt="VGPT Architecture"><figcaption><p>VGPT Multi-Layer Architecture Framework</p></figcaption></figure>
 
 ## 🏗️ Core Architecture Components
 

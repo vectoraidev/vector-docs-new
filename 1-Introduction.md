@@ -2,7 +2,7 @@
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption></figcaption></figure>
 
 ### 🎯 Mission & Vision
 

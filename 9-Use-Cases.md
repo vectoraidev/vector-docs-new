@@ -6,7 +6,7 @@ Vector AI offers advanced tooling for evaluating token legitimacy, automating du
 
 ## 🧠 Multi-Pipeline Token Scanning
 
-<figure><img src=".gitbook/assets/framework.png" alt="Multi-Pipeline Token Scanning"><figcaption><p>Comprehensive token evaluation across multiple data sources</p></figcaption></figure>
+<figure><img src="assets/framework.png" alt="Multi-Pipeline Token Scanning"><figcaption><p>Comprehensive token evaluation across multiple data sources</p></figcaption></figure>
 
 Automatically evaluate the credibility of new tokens by scanning Twitter, Telegram, and other off-chain platforms as well as token security, holder information and honeypot checks.
 
@@ -21,7 +21,7 @@ Automatically evaluate the credibility of new tokens by scanning Twitter, Telegr
 
 ## 💬 Ask VGPT About a Scan
 
-<figure><img src=".gitbook/assets/brain-analysis.png" alt="VGPT AI Analysis"><figcaption><p>AI-powered reasoning and analysis capabilities</p></figcaption></figure>
+<figure><img src="assets/brain-analysis.png" alt="VGPT AI Analysis"><figcaption><p>AI-powered reasoning and analysis capabilities</p></figcaption></figure>
 
 Want deeper insights? Once a token is scanned, you can **ask VGPT follow-up questions** like:
 
@@ -52,7 +52,7 @@ VGPT cross-references team bios, project claims, and social engagement to flag r
 
 ## 🧬 Cross-Signal Token Scoring
 
-<figure><img src=".gitbook/assets/crypto-chart.png" alt="Token Scoring Dashboard"><figcaption><p>Comprehensive token scoring across multiple signals</p></figcaption></figure>
+<figure><img src="assets/crypto-chart.png" alt="Token Scoring Dashboard"><figcaption><p>Comprehensive token scoring across multiple signals</p></figcaption></figure>
 
 Assign comprehensive scores to tokens using multiple data sources:
 
@@ -114,7 +114,7 @@ Match smart contracts to all linked project assets with comprehensive verificati
 
 ## ⚡ Real-Time Onboarding Surveillance
 
-<figure><img src=".gitbook/assets/sniper-flow.png" alt="Real-Time Monitoring"><figcaption><p>Automated real-time token deployment monitoring</p></figcaption></figure>
+<figure><img src="assets/sniper-flow.png" alt="Real-Time Monitoring"><figcaption><p>Automated real-time token deployment monitoring</p></figcaption></figure>
 
 Monitor new deployments on-chain and immediately trigger comprehensive validation:
 

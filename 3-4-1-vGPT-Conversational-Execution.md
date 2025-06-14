@@ -4,7 +4,7 @@
 
 The vGPT Conversational Execution engine is the core component that enables natural language interaction with blockchain intelligence. It processes user queries, maintains context, and delivers comprehensive responses through an intuitive conversational interface.
 
-<figure><img src=".gitbook/assets/brain-analysis.png" alt="Conversational AI"><figcaption><p>vGPT Conversational AI Processing</p></figcaption></figure>
+<figure><img src="assets/brain-analysis.png" alt="Conversational AI"><figcaption><p>vGPT Conversational AI Processing</p></figcaption></figure>
 
 ## 🧠 Conversational AI Architecture
 

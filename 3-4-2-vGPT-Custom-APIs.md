@@ -4,7 +4,7 @@
 
 The vGPT Custom API integration system enables seamless connection with external data sources, trading platforms, and custom applications. This flexible architecture allows developers to extend VGPT capabilities and integrate blockchain intelligence into their own systems.
 
-<figure><img src=".gitbook/assets/framework.png" alt="API Integration"><figcaption><p>vGPT Custom API Integration Architecture</p></figcaption></figure>
+<figure><img src="assets/framework.png" alt="API Integration"><figcaption><p>vGPT Custom API Integration Architecture</p></figcaption></figure>
 
 ## 🔗 API Integration Architecture
 

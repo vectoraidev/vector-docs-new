@@ -9,7 +9,7 @@ description: >-
 
 
 
-<figure><img src="../.gitbook/assets/vectorgpt.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/vectorgpt.png" alt=""><figcaption></figcaption></figure>
 
 ## Overview
 
@@ -30,7 +30,7 @@ VGPT Web Chatbot: [https://chat.vector-ai.pro/](https://chat.vector-ai.pro/)
 * **Context Awareness**: Remembers conversation history and user preferences
 * **Intent Classification**: Automatically determines if you need analysis, trading, or information
 
-<figure><img src="../.gitbook/assets/vgptchart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../assets/vgptchart.png" alt=""><figcaption></figcaption></figure>
 
 ## 🏗️ System Components
 

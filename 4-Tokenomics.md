@@ -12,7 +12,7 @@
 
 
 
-<figure><img src=".gitbook/assets/vector_gpt_tokenomics_pie.png" alt="VECTOR Token Allocation" width="563"><figcaption><p>VECTOR Token Distribution &#x26; Allocation Breakdown</p></figcaption></figure>
+<figure><img src="assets/vector_gpt_tokenomics_pie.png" alt="VECTOR Token Allocation" width="563"><figcaption><p>VECTOR Token Distribution &#x26; Allocation Breakdown</p></figcaption></figure>
 
 | Category                 | Allocation | Tokens      | Purpose                                                  |
 | ------------------------ | ---------- | ----------- | -------------------------------------------------------- |

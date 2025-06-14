@@ -4,7 +4,7 @@
 
 Vector GPT utilizes a sophisticated multi-layer architecture that combines blockchain connectivity, AI processing,  web crawling and real-time data aggregation to deliver comprehensive intelligence and automation capabilities.
 
-<figure><img src=".gitbook/assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption><p><em>An example framework of how Vector AI utilizes multiple sources to gather accurate data</em></p></figcaption></figure>
+<figure><img src="assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption><p><em>An example framework of how Vector AI utilizes multiple sources to gather accurate data</em></p></figcaption></figure>
 
 ## Process Flow
 
@@ -14,7 +14,7 @@ Vector GPT utilizes a sophisticated multi-layer architecture that combines block
 * **Request Classification**: AI determines request type (transaction, analysis, or information)
 * **Intent Recognition**: System identifies specific actions and data requirements\
   \
-  ![](.gitbook/assets/vgptchart.png)
+  ![](assets/vgptchart.png)
 
 ### 2. Multi-Source Data Gathering
 
