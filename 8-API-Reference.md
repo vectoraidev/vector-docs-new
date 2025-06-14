@@ -1,5 +1,5 @@
-## 🔌 API Reference
+# API Reference
 
-- Authentication
-- Endpoints for scan requests
-- Rate limits & usage examples
+* Authentication
+* Endpoints for scan requests
+* Rate limits & usage examples

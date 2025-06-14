@@ -1,5 +1,5 @@
-## 💸 Staking & Pricing
+# Staking & Pricing
 
-- Access Pro features via staking
-- Pricing tiers
-- Token utility incentives
+* Access Pro features via staking
+* Pricing tiers
+* Token utility incentives
