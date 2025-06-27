@@ -4,7 +4,7 @@
 
 The VGPT architecture is built on a modular, scalable foundation that enables seamless integration of AI processing, blockchain connectivity, and real-time data aggregation.
 
-<figure><img src="assets/framework.png" alt="VGPT Architecture"><figcaption><p>VGPT Multi-Layer Architecture Framework</p></figcaption></figure>
+<figure><img src="../../../assets/framework.png" alt="VGPT Architecture"><figcaption><p>VGPT Multi-Layer Architecture Framework</p></figcaption></figure>
 
 ## 🏗️ Core Architecture Components
 
@@ -100,6 +100,6 @@ The VGPT architecture is built on a modular, scalable foundation that enables se
 
 For detailed technical specifications of specific components, see:
 
-* [vGPT Conversational Execution](3-4-1-vGPT-Conversational-Execution.md)
-* [vGPT + Custom APIs](3-4-2-vGPT-Custom-APIs.md)
-* [API Reference](3-4-3-api-reference.md)
+* [vGPT Conversational Execution](3-4-1-vgpt-conversational-execution.md)
+* [vGPT + Custom APIs](3-4-2-vgpt-custom-apis.md)
+* [API Reference](../../../3-4-3-api-reference.md)

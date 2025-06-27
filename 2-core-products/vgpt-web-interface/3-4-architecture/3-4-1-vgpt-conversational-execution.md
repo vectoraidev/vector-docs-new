@@ -1,4 +1,4 @@
-# vGPT Conversational Execution
+# VGPT Conversational Execution
 
 ## Overview
 
@@ -28,4 +28,4 @@ The vGPT Conversational Execution engine is the core component that enables natu
 * **Action Suggestions**: Provides specific recommendations and next steps\
 
 
-<figure><img src=".gitbook/assets/Editor _ Mermaid Chart-2025-05-25-235104.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Editor _ Mermaid Chart-2025-05-25-235104.png" alt=""><figcaption></figcaption></figure>

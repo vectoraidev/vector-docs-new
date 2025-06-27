@@ -1,4 +1,8 @@
-# vGPT + Custom APIs
+---
+description: Custom API integration coming soon
+---
+
+# VGPT + Custom APIs
 
 ## Overview
 
@@ -28,4 +32,4 @@ The vGPT Custom API integration system enables seamless connection with external
 * **Batch Processing**: Efficient handling of bulk data operations\
 
 
-<figure><img src=".gitbook/assets/Editor _ Mermaid Chart-2025-05-25-233846.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Editor _ Mermaid Chart-2025-05-25-233846.png" alt=""><figcaption></figcaption></figure>

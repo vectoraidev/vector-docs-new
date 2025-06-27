@@ -1,15 +1,17 @@
+---
+description: >-
+  Welcome to Vector AI! This guide will help you get up and running with VGPT in
+  minutes.
+---
+
 # Quick Start Guide
-
-## Getting Started with VGPT
-
-Welcome to Vector AI! This guide will help you get up and running with VGPT in minutes.
 
 ## 🚀 Step 1: Access VGPT Web Chatbot
 
 ### Web Interface
 
-1. Visit [vector-ai.pro](https://vector-ai.pro)
-2. Create your account or sign in
+1. Visit [https://chat.vector-ai.pro](https://chat.vector-ai.pro/)
+2. Create your account or sign in with your wallet
 3. Access the VGPT chat interface
 
 
@@ -76,7 +78,7 @@ VGPT provides structured responses including:
 ## 🆘 Need Help?
 
 * Join our [Telegram community](https://t.me/vectorai_tg)
-* Check the [FAQ section](6-Links-Resources.md)
+* Check the [FAQ section](../../6-Links-Resources.md)
 * Contact support: team@vector-ai.pro
 
-Ready to dive deeper? Check out our [Example Queries](3-2-Example-Queries.md) for more advanced use cases!
+Ready to dive deeper? Check out our [Example Queries](3-2-example-queries.md) for more advanced use cases!

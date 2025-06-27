@@ -2,6 +2,7 @@
 description: >-
   Similar to our token gated/paid IQ+ bot but with much less data-points, simple
   scan cards and lack of deep research.
+icon: telegram
 ---
 
 # Vector IQ (FREE)

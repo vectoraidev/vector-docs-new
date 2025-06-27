@@ -1,8 +1,9 @@
 ---
 description: Free to use while we train heuristics, token gating/pay per month coming soon.
+icon: telegram
 ---
 
-# VECTOR IQ+ (PAID)
+# Vector IQ+ (PAID)
 
 ## Overview
 
