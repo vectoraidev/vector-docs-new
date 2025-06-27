@@ -1,14 +1,12 @@
 ---
-description: >-
-  Similar to our token gated/paid IQ+ bot but with much less data-points, simple
-  scan cards and lack of deep research.
+description: Free to use while we train heuristics, token gating/pay per month coming soon.
 ---
 
-# Vector IQ (FREE)
+# VECTOR IQ+ (PAID)
 
 ## Overview
 
-VECTOR IQ Bot is a comprehensive token analysis platform that provides professional-grade cryptocurrency token evaluations through Telegram. The bot combines multiple data sources and AI-powered analysis to deliver A+ to F grades across five key analysis categories, helping users make informed decisions in the DeFi space.
+VECTOR IQ+ Bot is a comprehensive token analysis platform that provides professional-grade cryptocurrency token evaluations through Telegram. The bot combines multiple data sources and AI-powered analysis to deliver A+ to F grades across five key analysis categories, helping users make informed decisions in the DeFi space.
 
 ## Key Features
 
@@ -22,7 +20,7 @@ VECTOR IQ Bot is a comprehensive token analysis platform that provides professio
 
 ## Why VECTOR IQ+?
 
-VECTOR IQ goes beyond simple security checks by providing comprehensive analysis across multiple dimensions of token risk. Each token receives professional grades similar to credit ratings, making it easy to quickly assess investment risk and opportunity.
+VECTOR IQ+ goes beyond simple security checks by providing comprehensive analysis across multiple dimensions of token risk. Each token receives professional grades similar to credit ratings, making it easy to quickly assess investment risk and opportunity.
 
 The bot's weighted scoring system prioritizes the most critical factors:
 
@@ -30,3 +28,7 @@ The bot's weighted scoring system prioritizes the most critical factors:
 * Holder concentration risks are heavily weighted (1.5x)
 * Market manipulation detection is prioritized (1.3x)
 * All analysis is backed by real data from trusted sources
+
+***
+
+_Professional token analysis with transparent A+ to F grading_
