@@ -20,7 +20,7 @@
     * [Core Analysis Features](2-core-products/vector-iq+-paid/core-analysis-features.md)
     * [Visual Intelligence](2-core-products/vector-iq+-paid/visual-intelligence.md)
   * [Vector IQ (FREE)](2-Core-Products/Vector-IQ-Plus-Token-Scanner-Researcher.md)
-  * [Vector Alpha Signals](2-Core-Products/Vector-Scanner-Smart-TG-Signals.md)
+  * [Vector Alpha Signals (PAID)](2-Core-Products/Vector-Scanner-Smart-TG-Signals.md)
   * [Vector Scope Group Bot](2-Core-Products/Vector-Scope-Group-Bot.md)
   * [Viper Auto Sniper](2-Core-Products/Viper-Auto-Sniper.md)
 * [Tokenomics](4-Tokenomics.md)
