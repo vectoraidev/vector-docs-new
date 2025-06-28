@@ -5,7 +5,7 @@ icon: bars-progress
 # Roadmap
 
 {% hint style="warning" %}
-Roadmap as of 6/27/2025 - Roadmap may change based on company direction/priorities
+Roadmap as of 6/27/2025 - Roadmap may change based on company direction/priorities. Our current roadmap focuses on immediate objectives as we build and refine our platform. Long-term goals will be outlined progressively, guided by our vision to become the top tool in the crypto markets. We will expand our roadmap based on community feedback and evolving needs.
 {% endhint %}
 
 ***
@@ -97,3 +97,4 @@ This mobile app, anticipated for release in August, promises to enhance user eng
 
 ***
 
+Our current roadmap focuses on immediate objectives as we build and refine our platform. Long-term goals will be outlined progressively, guided by our vision to become the top tool in the crypto markets. We will expand our roadmap based on community feedback and evolving needs.
