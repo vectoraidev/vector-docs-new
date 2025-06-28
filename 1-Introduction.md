@@ -1,18 +1,14 @@
+---
+icon: braille
+---
+
 # Mission & Value Proposition
-
-
 
 <figure><img src="assets/Screenshot 2025-05-28 221835.png" alt=""><figcaption></figcaption></figure>
 
-### 🎯 Mission & Vision
+### Mission Statement
 
-#### Our Mission
-
-Make token research and blockchain analysis effortless by replacing outdated tools with AI-powered, real-time intelligence — accessible to anyone via natural language.
-
-#### Our Vision
-
-To become the most trusted AI engine for on-chain research, validation, and automation — helping users and builders identify real opportunities and avoid scams before anyone else.
+Our mission is to revolutionize token research and blockchain analysis by offering AI-powered, real-time intelligence that is accessible to everyone through natural language. We envision becoming the most trusted AI engine for on-chain research, validation, and automation, empowering users and developers to detect genuine opportunities and avert scams efficiently.
 
 ***
 

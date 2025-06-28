@@ -1,3 +1,7 @@
+---
+icon: cart-flatbed-suitcase
+---
+
 # VGPT Use Cases
 
 Vector AI offers advanced tooling for evaluating token legitimacy, automating due diligence, and surfacing on-chain intelligence through natural language and AI reasoning via VGPT.

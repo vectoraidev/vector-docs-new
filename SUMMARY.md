@@ -29,7 +29,6 @@
 * [VECTOR Token](4-tokenomics/README.md)
   * [Token Distro/Tax](4-tokenomics/token-distro-tax.md)
   * [Revenue](4-tokenomics/revenue.md)
+  * [Staking & Pricing](4-tokenomics/7-staking-pricing.md)
 * [Roadmap](5-Roadmap.md)
 * [Links & Resources](6-Links-Resources.md)
-* [Staking & Pricing](7-Staking-Pricing.md)
-* [⚠️ API Reference](3-4-3-api-reference.md)

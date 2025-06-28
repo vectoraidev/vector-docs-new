@@ -102,4 +102,4 @@ For detailed technical specifications of specific components, see:
 
 * [vGPT Conversational Execution](3-4-1-vgpt-conversational-execution.md)
 * [vGPT + Custom APIs](3-4-2-vgpt-custom-apis.md)
-* [API Reference](../../../3-4-3-api-reference.md)
+* [API Reference](broken-reference)

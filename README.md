@@ -1,10 +1,14 @@
+---
+icon: hand-wave
+---
+
 # Welcome to VECTOR AI
 
 <figure><img src="assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
 
 **Company**: VECTOR AI | **Product**: Vector GPT | **Token**: VECTOR\
 \
-**VECTOR Token** `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`&#x20;
+**VECTOR Token** `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`
 
 ***
 
@@ -44,13 +48,4 @@ At the core is **Vector GPT**, a blockchain-connected assistant that combines sm
 * Team tokens vested with 3-month cliff + 18-month linear release via [UNICRYPT](https://app.uncx.network/lockers/token/chain/1/address/0x569dd3298e114da858415ee5672c8f2ab57938bf)
 * 5% balanced buy/sell tax structure
 
-
-
 ***
-
-## Official Links
-
-* **Website**: https://vector-ai.pro
-* **Twitter/X**: https://x.com/vectorai\_x
-* **Telegram**: https://t.me/vectorai\_tg
-* **Email**: team@vector-ai.pro
