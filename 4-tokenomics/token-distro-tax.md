@@ -1,4 +1,4 @@
-# Tokenomics
+# Token Distro/Tax
 
 **Token Name**: Vector AI
 
@@ -10,9 +10,7 @@
 
 ***
 
-
-
-<figure><img src="assets/vector_gpt_tokenomics_pie.png" alt="VECTOR Token Allocation" width="563"><figcaption><p>VECTOR Token Distribution &#x26; Allocation Breakdown</p></figcaption></figure>
+<figure><img src="../assets/vector_gpt_tokenomics_pie.png" alt="VECTOR Token Allocation" width="563"><figcaption><p>VECTOR Token Distribution &#x26; Allocation Breakdown</p></figcaption></figure>
 
 | Category                 | Allocation | Tokens      | Purpose                                                  |
 | ------------------------ | ---------- | ----------- | -------------------------------------------------------- |
@@ -42,7 +40,9 @@
 
 
 
-***
+{% hint style="warning" %}
+Tax Plan as of 6.27.2025 - This may change based on company direction, needs and values.
+{% endhint %}
 
 ## Tax Structure
 
@@ -55,47 +55,5 @@
 
 * **Development Fund**: 3% (platform development and maintenance)
 * **Marketing & Growth**: 1.5% (community building and marketing initiatives)
-* **Buyback & Burn**: 0.5% (deflationary mechanism)\
+* **Buyback & LP Adds**: 0.5% (deflationary mechanism)\
   <sup><sub><mark style="color:orange;">May change as our platform evolves based on necessities<mark style="color:orange;"><sub></sup>
-
-***
-
-## Utility & Use Cases
-
-### 🔐 Access & Utility via Staking
-
-**Stake-to-Access:**\
-Unlock premium VGPT features by staking $VECTOR — from smart contract analysis to real-time AI research and Telegram tooling.
-
-**Tiered Access Levels:**\
-Different staking thresholds unlock progressively more powerful tools, API endpoints, and automation capabilities.
-
-**Earning Through Usage:**\
-Users who stake and actively use the platform can earn additional $VECTOR rewards, driving both engagement and sustainability.
-
-***
-
-### 💰 VECTOR-Powered Platform Economy
-
-**Pay-per-Use (Microtransactions):**\
-Certain advanced features and API calls require small $VECTOR payments — no subscription, just on-demand utility.
-
-**Telegram Bot Payments & Tips:**\
-Send tips or pay for services within Telegram using $VECTOR, creating a seamless chat-to-utility loop.
-
-**Bounties & Referrals:**\
-Earn $VECTOR through contribution-based bounties, community challenges, and successful referral programs.
-
-***
-
-### 🏛️ Governance & Protocol Ownership
-
-**Community Voting:**\
-Holders help shape the future of VGPT — vote on new feature integrations, research focus areas, and strategic decisions.
-
-**Economic Control:**\
-Vote on key parameters like staking rewards, fee tiers, and access pricing models.
-
-**Treasury Oversight:**\
-Participate in decisions around treasury fund allocation, protocol development grants, and community incentives.
-

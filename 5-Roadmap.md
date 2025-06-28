@@ -1,3 +1,7 @@
+---
+icon: bars-progress
+---
+
 # Roadmap
 
 * **Phase 1:** Core tools launched (VGPT, Free Scanner)

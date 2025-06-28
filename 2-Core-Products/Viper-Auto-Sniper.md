@@ -1,161 +1,78 @@
-# Viper Auto Sniper
+---
+description: 🟠 In-Development
+icon: telegram
+---
 
-## Overview
+# Viper Sniper (FREE/$) 🟠
 
-Viper Auto Sniper is Vector AI's advanced automated trading engine designed for high-speed token launches, arbitrage opportunities, and smart money copy trading. It combines AI-powered market analysis with lightning-fast execution to capitalize on time-sensitive trading opportunities.
+#### Overview
 
-![Viper Auto Sniper Flowchart](../assets/sniper-flow.png)
+VECTOR Sniper is a Telegram-based automated trading bot that integrates directly with our Vector IQ analysis ecosystem and Alpha Signals group. It executes trades based on AI analysis, user preferences, and technical patterns while leveraging the collective intelligence from our scanning community.
 
-_Enhanced Sniper Bot Architecture and Process Flow_
+#### Core Integration
 
-## Core Features
+**Vector IQ Scanner Integration**
 
-### 🎯 Launch Sniping
+* Auto-execute on tokens with A/B grades from IQ+ analysis
+* Use security, holder, and wash trading scores for entry decisions
+* Leverage real-time market analysis for timing optimization
 
-* **New Token Detection**: Automated detection of new token launches across multiple DEXs
-* **Fair Launch Sniping**: Participate in fair launches with optimal timing and gas settings
-* **Liquidity Addition Detection**: Instant detection when liquidity is added to new pools
-* **Anti-MEV Protection**: Advanced MEV protection and front-running resistance
+**Alpha Signals Integration**
 
-### 🤖 AI-Powered Trade Execution
+* Instant execution on validated alpha signals
+* Automatic position sizing based on signal confidence scores
+* Integration with community scan momentum data
 
-* **Smart Entry Points**: AI-determined optimal entry points based on market conditions
-* **Dynamic Gas Management**: Intelligent gas fee optimization for successful transactions
-* **Multi-Chain Support**: Simultaneous trading across Ethereum, BSC, Polygon, and Arbitrum
-* **Risk Assessment**: Real-time risk evaluation before trade execution
+### Intelligent Automated Trading Through Community Analysis
 
-### 🔄 Copy Trading Engine
+#### The Vision
 
-* **Wallet Following**: Automatically copy trades from successful wallets and traders
-* **Smart Money Tracking**: Follow venture capital and institutional wallet activities
-* **Strategy Replication**: Replicate successful trading strategies with customization
-* **Performance Analytics**: Track and analyze copy trading performance metrics
+VECTOR Sniper represents the next evolution of our ecosystem - a smart trading bot that automatically acts on the collective intelligence of our Vector IQ community. Instead of manually tracking signals and racing to buy tokens, the sniper executes trades for you based on our proven analysis and community validation.
 
-## Advanced Trading Strategies
+#### How It Works
 
-### 1. 🚀 Launch Strategies
+**Built on Our Proven Analysis** The sniper uses the same A+ to F grading system from Vector IQ+ that you already trust. When our community scans a token and it receives high grades, the sniper can automatically buy it for you - but only if it meets your personal criteria.
 
-* **Stealth Launch Detection**: Identify tokens launching without public announcement
-* **Presale to DEX**: Automated trading when presale tokens hit DEX listings
-* **Airdrop Claiming**: Automated claiming and immediate selling of airdropped tokens
-* **Bridge Arbitrage**: Cross-chain arbitrage opportunities for newly bridged tokens
+**Community-Driven Intelligence** Every scan from our IQ bots feeds into the sniper's decision-making. When a token gets scanned multiple times by different users and shows strong fundamentals, that's a signal worth acting on. The sniper identifies these patterns and acts while opportunities are still fresh.
 
-### 2. 📊 Market Making & Arbitrage
+**Alpha Signals Integration** Members of our exclusive Alpha Signals group get the ultimate advantage - the sniper can automatically execute trades on validated alpha calls, ensuring you never miss an opportunity due to timing or availability.
 
-* **DEX Arbitrage**: Automated arbitrage between different decentralized exchanges
-* **CEX-DEX Arbitrage**: Price difference exploitation between centralized and decentralized exchanges
-* **Sandwich Attacks**: Ethical MEV strategies for profit extraction (user configurable)
-* **Grid Trading**: Automated grid trading strategies for volatile markets
+#### What You Control
 
-### 3. 🎪 MEV & Frontrunning
+**Your Trading Rules** Set your own standards for what the sniper should buy. Want only A-grade security tokens? Done. Prefer smaller positions spread across more opportunities? You decide. The sniper follows your rules, not ours.
 
-* **Mempool Monitoring**: Real-time mempool analysis for profitable opportunities
-* **Transaction Simulation**: Pre-execution simulation to ensure profitability
-* **Bundle Submissions**: Strategic transaction bundling for optimal execution
-* **Flashloan Integration**: Automated flashloan strategies for capital-free arbitrage
+**Risk Management** You control how much to invest per trade, maximum daily trades, and when to take profits or cut losses. The sniper handles the execution while you maintain complete control over your risk exposure.
 
-## Risk Management
+**On/Off Switch** Enable or disable automation anytime. The sniper only trades when you want it to, and you can always override or stop any activity instantly.
 
-### 🛡️ Built-in Safeguards
+#### The Opportunity
 
-* **Stop Loss Automation**: Intelligent stop-loss orders based on multiple criteria
-* **Take Profit Levels**: Automated profit-taking at predetermined levels
-* **Slippage Protection**: Dynamic slippage adjustment based on market conditions
-* **Rug Pull Detection**: Real-time monitoring for potential rug pulls and exits
+**Never Miss Alpha Again** How many times have you seen a great call in a group but missed it because you were asleep, busy, or didn't act fast enough? The sniper solves this by acting on validated opportunities 24/7.
 
-### 📊 Position Management
+**Quality Over Speed** While other snipers focus purely on speed, ours focuses on quality. We only trade tokens that pass our rigorous analysis standards - the same standards that have protected our community from countless scams and rugs.
 
-* **Portfolio Allocation**: Automatic position sizing based on risk tolerance
-* **Diversification Rules**: Enforce diversification limits across different tokens
-* **Maximum Exposure Limits**: Set maximum exposure per token or strategy
-* **Correlation Analysis**: Avoid over-concentration in correlated assets
+**Learn From Success** The sniper tracks every trade and learns what works. Over time, it becomes smarter about timing, sizing, and selection - all while keeping you in complete control.
 
-### ⚠️ Emergency Controls
+#### Safety First
 
-* **Kill Switch**: Instant halt of all trading activities
-* **Emergency Exit**: Automated liquidation of all positions in extreme conditions
-* **Circuit Breakers**: Automatic pausing during abnormal market conditions
-* **Manual Override**: Full manual control override for emergency situations
+**Built-In Protection** The sniper won't trade tokens that fail our security analysis, lack sufficient liquidity, or show signs of manipulation. Your protection comes first, profits second.
 
-## Configuration & Customization
+**Transparent Operations** Every trade decision is logged and explained. You'll always know why the sniper bought or sold something, and you can review its reasoning anytime.
 
-### 🔧 Strategy Settings
+**Your Funds, Your Control** The sniper never holds your funds. It executes trades through your connected wallet, and you can revoke permissions anytime.
 
-* **Custom Parameters**: Fully customizable trading parameters and thresholds
-* **Strategy Templates**: Pre-built strategies for different market conditions
-* **Backtesting**: Historical performance testing of custom strategies
-* **A/B Testing**: Run multiple strategies simultaneously for comparison
+#### Community Benefits
 
-### 📱 Control Interface
+**Collective Intelligence** When hundreds of users contribute scanning data, patterns emerge that no individual trader could spot. The sniper leverages this collective intelligence for better decision-making.
 
-* **Web Dashboard**: Comprehensive web-based control and monitoring interface
-* **Telegram Control**: Execute commands and receive updates via Telegram
-* **Mobile Alerts**: Real-time notifications for trades and important events
-* **API Integration**: Full API access for custom integrations and controls
+**Shared Success** Compare your performance with other users (anonymously) and learn from successful strategies. The entire community benefits when we share insights and improve together.
 
-## Performance Features
+#### Development Status
 
-### ⚡ Speed & Execution
+VECTOR Sniper is currently in development as the next evolution of our ecosystem. It will first launch with basic automation for Alpha Signals members, then gradually expand to include IQ+ integration and advanced pattern recognition.
 
-* **Sub-Second Execution**: Ultra-fast trade execution with optimized infrastructure
-* **Multiple Node Connections**: Redundant connections for maximum reliability
-* **Gas Optimization**: Advanced gas management for cost-effective trading
-* **MEV Protection**: Built-in protection against malicious MEV attacks
+Early access will be available to our most active community members for testing and feedback.
 
-### 📈 Analytics & Reporting
+***
 
-* **Real-Time Performance**: Live tracking of all trading activities and P\&L
-* **Detailed Analytics**: Comprehensive performance analytics and metrics
-* **Trade History**: Complete audit trail of all executed trades
-* **Tax Reporting**: Automated generation of tax reports and transaction summaries
-
-## Security & Compliance
-
-### 🔐 Security Measures
-
-* **Non-Custodial**: Users maintain full custody of their funds at all times
-* **Encrypted Communications**: All communications encrypted with industry standards
-* **Secure Key Management**: Advanced wallet integration and key management
-* **Regular Audits**: Ongoing security audits and penetration testing
-
-### ⚖️ Compliance Features
-
-* **Jurisdiction Filtering**: Automatic compliance with local trading regulations
-* **AML Integration**: Anti-money laundering checks and reporting capabilities
-* **Tax Optimization**: Legal tax optimization strategies and reporting
-* **Regulatory Updates**: Automatic updates for changing regulatory requirements
-
-## Pricing & Access Tiers
-
-### 🥉 Starter Tier
-
-* **Requirements**: 5,000 VECTOR staked
-* **Features**: Basic sniping, 10 simultaneous strategies
-* **Trade Limits**: $10,000 daily trading volume
-* **Support**: Community support
-
-### 🥈 Professional Tier
-
-* **Requirements**: 25,000 VECTOR staked
-* **Features**: Advanced strategies, copy trading, 50 simultaneous strategies
-* **Trade Limits**: $100,000 daily trading volume
-* **Support**: Priority support and strategy consultation
-
-### 🥇 Elite Tier
-
-* **Requirements**: 100,000 VECTOR staked
-* **Features**: All features, custom strategies, unlimited strategies
-* **Trade Limits**: Unlimited trading volume
-* **Support**: Dedicated account manager and custom strategy development
-
-## Getting Started
-
-1. **VECTOR Staking**: Stake required VECTOR tokens for desired tier
-2. **Wallet Connection**: Connect your trading wallet(s) securely
-3. **Strategy Selection**: Choose from pre-built strategies or create custom ones
-4. **Risk Settings**: Configure risk management parameters
-5. **Go Live**: Activate strategies and begin automated trading
-
-## Risk Disclaimer
-
-⚠️ **Important**: Automated trading involves significant risks including total loss of capital. Past performance does not guarantee future results. Users should fully understand all risks before using Viper Auto Sniper.
+_Automated trading with the intelligence of our entire analysis ecosystem._
