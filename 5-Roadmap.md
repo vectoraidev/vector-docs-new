@@ -10,78 +10,90 @@ Roadmap as of 6/27/2025 - Roadmap may change based on company direction/prioriti
 
 ***
 
-### Phase 0 — Foundation & R-and-D (Completed)
+### Complete 🟢
 
-| Window                  | Key Goals                                                                       | Major Outputs                                              | Status     |
-| ----------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| **Dec 2024 – Jan 2025** | - Choose LLM stack- Spin up on-chain indexer                                    | • **VGPT Backend v0.1** skeleton• Repo & CI/CD scaffolding | ✅ Complete |
-| **Feb 2025**            | - Prototype data pipes (Etherscan, GoPlus, Dex-Screener)- First inference tests | • **Backend v0.3** (scan < 2 s)• Internal Postman suite    | ✅ Complete |
-| **Mar 2025**            | - Build web chatbot with on-chain actions- Harden infra                         | • **Chatbot α** PWA (swap/approve demo)• Load + fuzz tests | ✅ Complete |
-| **Apr 2025**            | - Heuristic tuning round-1- Closed beta (100 users)                             | • Accuracy dashboard (92 % target)• Feedback loop to VGPT  | ✅ Complete |
+<details>
+
+<summary>Phase 0: Pre-launch of Vector/R&#x26;D - (Dec 2024 - May 2025)  </summary>
+
+The Building phase was focused on establishing our backend infrastructure, which serves as the cornerstone for our upcoming tools. This phase involved extensive research and development (RnD) to ensure that the core systems are robust, scalable, and capable of supporting our evolving suite of solutions. By meticulously constructing our main backend, we've positioned ourselves to efficiently power future advancements, enabling seamless integration and enhanced functionality across all our products.
+
+| Window                  | Key Goals                                                                                     | Major Outputs                                                                                          | Status     |
+| ----------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| **Dec 2024 – Jan 2025** | <p>- Choose LLM stack</p><p>- Spin up on-chain indexer</p>                                    | <p>• <strong>VGPT Backend v0.1</strong> skeleton</p><p>• Repo &#x26; CI/CD scaffolding</p>             | ✅ Complete |
+| **Feb 2025**            | <p>- Prototype data pipes (Etherscan, GoPlus, Dex-Screener)</p><p>- First inference tests</p> | <p>• <strong>Backend v0.3</strong> (scan/VGPT inquiries &#x3C; 5 s)</p><p>• Internal Postman suite</p> | ✅ Complete |
+| **Mar 2025**            | <p>- Build web chatbot with on-chain actions</p><p>- Harden infra</p>                         | <p>• <strong>Chatbot α</strong> PWA (swap/approve demo)</p><p>• Load + fuzz tests</p>                  | ✅ Complete |
+| **Apr 2025**            | - Heuristic tuning round-1                                                                    | <p>• Accuracy dashboard (92 % target)</p><p>• Feedback loop to VGPT</p>                                | ✅ Complete |
+
+</details>
+
+<details>
+
+<summary>Phase 1: VECTOR Launch - (May 2025)  </summary>
+
+In this initial phase, our main objective was to successfully launch the VECTOR token. Alongside this, we introduced the VGPT web interface, providing users with a seamless and intuitive experience. These efforts were crucial in forming a robust community around our platform, engaging users and fostering a collaborative environment for future developments.
+
+| Window       | Key Goals                                                                                      | Major Outputs                                                                                   | Status     |
+| ------------ | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------- |
+| **May 2025** | <p>- Ship production backend 0.9</p><p>- Launch ecosystem token</p><p>- Community Building</p> | <p>• <strong>VECTOR TGE</strong> (5 %/5 % tax)</p><p>• Liquidity seeded, contract renounced</p> | ✅ Complete |
+
+</details>
+
+<details>
+
+<summary>Phase 2: First-Gen Tools powered by VGPT - (June 2025)</summary>
+
+Phase 2 focused on constructing our V1 tools. The team collaborated to design and implement core features, laying a solid foundation for future iterations. This month emphasized rapid prototyping, testing, and feedback, ensuring the tool met initial user needs efficiently
+
+| Window               | Key Goals                                   | Public Assets                                       | Status |
+| -------------------- | ------------------------------------------- | --------------------------------------------------- | ------ |
+| **Early Jun 2025**   | - Real-time charting bot                    | **Vector Scope Bot** (TG)                           | ✅ Live |
+| **Mid Jun 2025**     | - Surface on-chain heuristics in chat       | **Vector IQ Analyzer** (free Quick-Scan)            | ✅ Live |
+| **End** **Jun 2025** | - Launch premium deep scan for beta testing | **Vector IQ⁺** (holder clusters, social validation) | ✅ Live |
+
+</details>
+
+### In-Progress 🟠
+
+<details>
+
+<summary>Phase 3: Heuristic Improvements, Token Gating and Signals/Sniper - (Jul-Aug 2025)</summary>
+
+Phase 3 focuses on launching our VPGT-driven AI signals with DYOR insights. This will be followed by the introduction of our VIPER sniper tool, enabling manual and later automated buying and selling of tokens. In this phase, we will also begin tokengating and introducing out pay-as-you go revenue model with revenue share for holders.
+
+| Sprint     | Internal Milestone                  | What                                         | Status |
+| ---------- | ----------------------------------- | -------------------------------------------- | ------ |
+| **Wk 1**   | Alpha Signals TG Launch and Testing | **Vector Signals TG Bot**                    | 🟠     |
+| **Wk 2**   | Signals Accuracy and Heuristics     | **Review Accuracy, monitor results**         | 🔴     |
+| **Wk 3**   | Token Gating/Pay-per-Use Intro      | **Monetization and Rev share introduction**  | 🔴     |
+| **Wk 4-5** | Manual Sniper for Signals/IQ Bot    | **VIPER Trading Bot Testing**                | 🟠     |
+| **Wk 6**   | VIPER Auto-Sniper Integration       | **Vector Auto-Sniper  Launch to the Public** | 🟠     |
+
+</details>
 
 ***
 
-### Phase 1 — Token Launch & Core Freeze
+### Planned 🔴
 
-| Window       | Key Goals                                             | Major Outputs                                                        | Status     |
-| ------------ | ----------------------------------------------------- | -------------------------------------------------------------------- | ---------- |
-| **May 2025** | - Ship production backend 0.9- Launch ecosystem token | • **VECTOR TGE** (5 %/5 % tax)• Liquidity seeded, contract renounced | ✅ Complete |
+<details>
 
-***
+<summary>Phase 4: Vector AI Mobile App/Dashboard Launch - (Aug-Sep 2025)</summary>
 
-### Phase 2 — First-Gen Tools
+Phase 4 will be an exciting time as we will be launching our upcoming mobile application. The Vector AI app is designed to provide seamless access to all of our powerful tools through an intuitive and user-friendly interface. Key features will include:
 
-| Window             | Key Goals                             | Public Assets                                       | Status |
-| ------------------ | ------------------------------------- | --------------------------------------------------- | ------ |
-| **Early Jun 2025** | - Real-time charting bot              | **Vector Scope Bot** (TG)                           | ✅ Live |
-| **Mid Jun 2025**   | - Surface on-chain heuristics in chat | **Vector IQ Analyzer** (free Quick-Scan)            | ✅ Live |
-| **Wk 3 Jun 2025**  | - Launch premium deep scan            | **Vector IQ⁺** (holder clusters, social validation) | ✅ Live |
+* **Alpha Notifications**: Stay informed with real-time alerts on market trends and insights directly on your mobile device.
+* **Staking**: Manage your staking activities effortlessly; stake and unstake with just a few taps.
+* **Wallet**: Securely track your portfolio and performance, with support for multi-currency handling.
+* **Trading Bot**: Automated trading functionality that mirrors your strategic goals and executes trades on-the-go.
 
-***
-
-### Phase 3 — Scanner & Signals Roll-out _(July 2025)_
-
-| Sprint   | Internal Milestone                       | Public Release                                   | Metrics Gate                  |
-| -------- | ---------------------------------------- | ------------------------------------------------ | ----------------------------- |
-| **Wk 1** | Code-freeze 👉 QA/Sec review             | **Token Scanner GA**                             | Error ≤ 1 %, latency < 300 ms |
-| **Wk 2** | Messier Analytics demo                   | —                                                | —                             |
-| **Wk 3** | Signals accuracy review                  | **Smart Token Signals (Live)**                   | ≥ 92 % precision              |
-| **Wk 4** | Manual Sniper + Trending internal review | **Vector Manual Sniper + Scope Trending (Live)** | Fill latency < 1 block        |
-| **Wk 5** | Auto-Sniper closed beta                  | **Vector Auto-Sniper (Beta ▶ Live)**             | PnL win-rate ≥ 70 %           |
-
-***
-
-### Phase 4 — Mobile Expansion _(August 2025)_
+This mobile app, anticipated for release in August, promises to enhance user engagement by extending our ecosystem's capabilities into a convenient mobile format, thereby ensuring tools and insights are always within reach.
 
 | Week     | Deliverable                               | Scope                                           |
 | -------- | ----------------------------------------- | ----------------------------------------------- |
 | **Wk 1** | **Vector Mobile App (PWA) – Public Beta** | Quick-Scan, Signals, Manual Sniper, push alerts |
 | **Wk 2** | Sprint retro & next-phase planning        | Roadmap refresh for Q4                          |
 
-***
-
-### Phase 5 — Flywheel & Monetisation
-
-> **More scans → smarter VGPT → better signals → higher sniper PnL → more paid subs → more data.**\
-> Revenue flows (product fees + 5 %/5 % swap-back taxes) funnel into R-and-D, liquidity adds, and buy-backs — reinforcing growth.
+</details>
 
 ***
 
-### Phase 6 — Horizon (Sep 2025 →)
-
-| Target                  | Concept (draft)                                           |
-| ----------------------- | --------------------------------------------------------- |
-| **Copy-Trader Vaults**  | Auto-mirror top wallets with risk caps & fee share        |
-| **DEX Perps Scanner**   | Extend heuristics to perpetual pairs & on-chain perp DEXs |
-| **LP Arbitrage Engine** | Cross-chain liquidity gap sniper using Viper cores        |
-| **Partner API Suite**   | Tiered, pay-per-call access to VGPT Deep-Scan             |
-
-***
-
-#### 📌 Status Recap (July 2025)
-
-| Complete                                              | In-Flight                       | Next-Up                                |
-| ----------------------------------------------------- | ------------------------------- | -------------------------------------- |
-| VGPT backend, Chatbot, VECTOR TGE, Scope Bot, IQ, IQ⁺ | Scanner GA QA, Signals approval | Manual Sniper, Auto-Sniper, Mobile PWA |
-
-**TL;DR** – We shipped the foundation (Dec → Jun), are rolling out Scanner & Sniper layers through July, and go mobile in August — all feeding data back into VGPT for compounding accuracy and revenue.
