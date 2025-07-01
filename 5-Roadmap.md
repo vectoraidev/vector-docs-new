@@ -59,15 +59,15 @@ Phase 2 focused on constructing our V1 tools. The team collaborated to design an
 
 <summary>Phase 3: Heuristic Improvements, Token Gating and Signals/Sniper - (Jul-Aug 2025)</summary>
 
-Phase 3 focuses on launching our VPGT-driven AI signals with DYOR insights. This will be followed by the introduction of our VIPER sniper tool, enabling manual and later automated buying and selling of tokens. In this phase, we will also begin tokengating and introducing out pay-as-you go revenue model with revenue share for holders.
+Phase 3 focuses on launching our VPGT-driven AI signals with DYOR insights. This will be followed by the introduction of our VIPER sniper tool, enabling manual and later automated buying and selling of tokens. In this phase, we will also begin token gating and introducing our pay-as-you go revenue model with revenue share for holders as we roll out VectorOne Mobile and Web Dashboard.
 
-| Sprint     | Internal Milestone                  | What                                         | Status |
-| ---------- | ----------------------------------- | -------------------------------------------- | ------ |
-| **Wk 1**   | Alpha Signals TG Launch and Testing | **Vector Signals TG Bot**                    | 🟠     |
-| **Wk 2**   | Signals Accuracy and Heuristics     | **Review Accuracy, monitor results**         | 🔴     |
-| **Wk 3**   | Token Gating/Pay-per-Use Intro      | **Monetization and Rev share introduction**  | 🔴     |
-| **Wk 4-5** | Manual Sniper for Signals/IQ Bot    | **VIPER Trading Bot Testing**                | 🟠     |
-| **Wk 6**   | VIPER Auto-Sniper Integration       | **Vector Auto-Sniper  Launch to the Public** | 🟠     |
+| Sprint   | Internal Milestone                     | What                                                     | Status |
+| -------- | -------------------------------------- | -------------------------------------------------------- | ------ |
+| **Wk 1** | Alpha Signals TG Launch and Testing    | **Vector Signals TG Bot**                                | 🟠     |
+| **Wk 2** | Viper Manual Sniper for Signals/IQ Bot | **Viper Trading Bot Beta and Introduction**              | 🟠     |
+| **Wk 3** | Token Gating/Pay-per-Use Intro         | **Monetization and Rev share introduction**              | 🟠     |
+| **Wk 4** | VectorOne Mobile Closed Beta           | **VectorOne Mobile Application Closed Beta and Testing** | 🟠     |
+| **Wk 5** | VectorOne Mobile & Web Dashboard       | Public launch of our Mobile and Web based dashboard      | 🟠     |
 
 </details>
 
@@ -77,9 +77,9 @@ Phase 3 focuses on launching our VPGT-driven AI signals with DYOR insights. This
 
 <details>
 
-<summary>Phase 4: Vector AI Mobile App/Dashboard Launch - (Aug-Sep 2025)</summary>
+<summary>Phase 4: VectorOne Mobile App/Dashboard Launch - (Aug-Sep 2025)</summary>
 
-Phase 4 will be an exciting time as we will be launching our upcoming mobile application. The Vector AI app is designed to provide seamless access to all of our powerful tools through an intuitive and user-friendly interface. Key features will include:
+Phase 4 will be the launch of VectorOne, our upcoming mobile/web application and dashboard. VectorOne is designed to provide seamless access to all of our powerful tools through an intuitive and user-friendly interface. Key features will include:
 
 * **Alpha Notifications**: Stay informed with real-time alerts on market trends and insights directly on your mobile device.
 * **Staking**: Manage your staking activities effortlessly; stake and unstake with just a few taps.
@@ -88,10 +88,10 @@ Phase 4 will be an exciting time as we will be launching our upcoming mobile app
 
 This mobile app, anticipated for release in August, promises to enhance user engagement by extending our ecosystem's capabilities into a convenient mobile format, thereby ensuring tools and insights are always within reach.
 
-| Week     | Deliverable                               | Scope                                           |
-| -------- | ----------------------------------------- | ----------------------------------------------- |
-| **Wk 1** | **Vector Mobile App (PWA) – Public Beta** | Quick-Scan, Signals, Manual Sniper, push alerts |
-| **Wk 2** | Sprint retro & next-phase planning        | Roadmap refresh for Q4                          |
+| Week     | Deliverable                               | Scope                                               |
+| -------- | ----------------------------------------- | --------------------------------------------------- |
+| **Wk 1** | Vector Mobile/Web App (PWA) – Public Beta | **Quick-Scan, Signals, Manual Sniper, push alerts** |
+| **Wk 2** | Sprint retro & next-phase planning        | **Roadmap refresh for Q4**                          |
 
 </details>
 
