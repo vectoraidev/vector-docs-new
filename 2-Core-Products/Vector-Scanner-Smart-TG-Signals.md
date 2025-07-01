@@ -5,7 +5,14 @@ icon: telegram
 
 # Vector Signals (PAID) 🟠
 
-#### Overview VECTOR Alpha Signals automatically tracks every token scan from our IQ and IQ+ bots, then applies advanced validation to identify the highest-quality opportunities before they gain mainstream attn.  **1. Scan Aggregation**
+#### Overview
+
+VECTOR Alpha Signals automatically tracks every token scan from our IQ and IQ+ bots, then applies advanced validation to identify the highest-quality opportunities before they gain mainstream attn.\
+\
+Vector Signals: Coming Soon\
+\
+\
+**1. Scan Aggregation**
 
 * Monitor all tokens analyzed by IQ/IQ+ users in real-time
 * Track scan frequency and user interest patterns

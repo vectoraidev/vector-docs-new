@@ -3,11 +3,13 @@ description: Free to use while we train heuristics, token gating/pay per month c
 icon: telegram
 ---
 
-# Vector IQ+ (PAID)
+# Vector IQ+ (PAID) 🟢
 
 ## Overview
 
-VECTOR IQ+ Bot is a comprehensive token analysis platform that provides professional-grade cryptocurrency token evaluations through Telegram. The bot combines multiple data sources and AI-powered analysis to deliver A+ to F grades across five key analysis categories, helping users make informed decisions in the DeFi space.
+VECTOR IQ+ Bot is a comprehensive token analysis platform that provides professional-grade cryptocurrency token evaluations through Telegram. The bot combines multiple data sources and AI-powered analysis to deliver A+ to F grades across five key analysis categories, helping users make informed decisions in the DeFi space.\
+\
+Vector IQ+ TG Bot: [https://t.me/vectorOGbot](https://t.me/vectorOGbot)
 
 ## Key Features
 

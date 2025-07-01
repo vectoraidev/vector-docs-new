@@ -5,11 +5,13 @@ description: >-
 icon: telegram
 ---
 
-# Vector IQ (FREE)
+# Vector IQ (FREE) 🟢
 
 ## Overview
 
-VECTOR IQ Bot is a comprehensive token analysis platform that provides professional-grade cryptocurrency token evaluations through Telegram. The bot combines multiple data sources and AI-powered analysis to deliver A+ to F grades across five key analysis categories, helping users make informed decisions in the DeFi space.
+VECTOR IQ Bot is a comprehensive token analysis platform that provides professional-grade cryptocurrency token evaluations through Telegram. The bot combines multiple data sources and AI-powered analysis to deliver A+ to F grades across five key analysis categories, helping users make informed decisions in the DeFi space.\
+\
+Vector IQ Free Bot: [https://t.me/vectoraiIQbot](https://t.me/vectoraiIQbot)
 
 ## Key Features
 
