@@ -6,69 +6,15 @@ icon: webhook
 
 Welcome to the **Vector AI API** - the most advanced cryptocurrency analysis platform powered by cutting-edge AI technology. This comprehensive documentation will guide you through every aspect of integrating and using our API.
 
-## 📋 Table of Contents
-
-### 🎯 **Getting Started**
-
-* [📖 Introduction](broken-reference)
-* [⚡ Quick Start Guide](broken-reference)
-* 🔧 Installation & Setup
-* 🌐 API Base URLs
-
-### 🔐 **Authentication**
-
-* [🔑 API Keys](broken-reference)
-* 🛡️ Security Best Practices
-* 🔄 Rate Limiting
-* ⚠️ Error Handling
-
-### 🎯 **API Endpoints**
-
-* [📊 Token Analysis](broken-reference)
-* 🧠 AI Research
-* 🔍 X (Twitter) Analysis
-* 🤖 VGPT Chat
-* 💊 Health Check
-
-### 💻 **Code Examples**
-
-* [🐍 Python Examples](broken-reference)
-* 🟨 JavaScript Examples
-* 🔗 cURL Examples
-* ⚛️ React Integration
-* 🖥️ Node.js Integration
-
-### 🔧 **Advanced Features**
-
-* 🎛️ Custom Scoring
-* 📦 Batch Processing
-* 🔄 Webhook Integration
-* 📱 Mobile SDKs
-* ⚡ Performance Optimization
-
-### 🛠️ **Troubleshooting**
-
-* [❌ Common Errors](broken-reference)
-* 🔍 Debugging Guide
-* 📞 Support
-* ❓ FAQ
-
-### 📚 **Reference**
-
-* 📖 API Reference
-* 🔗 Response Schemas
-* 🎨 Status Codes
-* 🔄 Changelog
-
 ***
 
 ## 🌟 **What is Vector AI API?**
 
 Vector AI API is the world's most comprehensive cryptocurrency analysis platform that provides:
 
-### ✨ **Core Features**
+### &#x20;**Core Features**
 
-| 🔥 **Feature**        | 🚀 **Description**                             | 💡 **Use Case**                       |
+| 🔥 **Feature**        |  **Description**                               |  **Use Case**                         |
 | --------------------- | ---------------------------------------------- | ------------------------------------- |
 | **🔍 Token Analysis** | Complete security, market, and holder analysis | Due diligence, risk assessment        |
 | **🧠 AI Research**    | Deep research reports using advanced AI        | Investment decisions, market insights |
@@ -76,14 +22,14 @@ Vector AI API is the world's most comprehensive cryptocurrency analysis platform
 | **🤖 VGPT Chat**      | AI-powered Q\&A about crypto topics            | Research assistance, education        |
 | **⚡ Real-time Data**  | Live market data and metrics                   | Trading applications, monitoring      |
 
-### 🏆 **Why Choose Vector AI?**
+### &#x20;**Why Choose Vector AI?**
 
-* ⚡ **Lightning Fast** - Sub-3 second response times
-* 🤖 **AI-Powered** - Advanced machine learning models
-* 🔒 **Enterprise Security** - Bank-grade security standards
-* 📈 **99.9% Uptime** - Reliable infrastructure
-* 🌍 **Global Coverage** - All major blockchains supported
-* 💎 **Premium Data** - Exclusive data sources and algorithms
+* &#x20;**Lightning Fast** - Sub-3 second response times
+* &#x20;**AI-Powered** - Advanced machine learning models
+* &#x20;**Enterprise Security** - Bank-grade security standards
+* &#x20;**99.9% Uptime** - Reliable infrastructure
+* &#x20;**Global Coverage** - All major blockchains supported
+* &#x20;**Premium Data** - Exclusive data sources and algorithms
 
 ***
 
